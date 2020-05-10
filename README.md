@@ -11,3 +11,4 @@ There are two approaches that are been followed for the same dataset.
 Proj1 is the file where the encoding of the features is done using dummy.
 
 Similarly in the other notebook, the encoding is done using LabelEncoder.
+Both have the same accuracy of 89 percent. Proj1 file has better visualizations of the entire dataset
