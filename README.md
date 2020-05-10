@@ -7,3 +7,7 @@ Thhe dataset that i used is abit different but could not be uploaded due to the 
 
 
 There are two approaches that are been followed for the same dataset.
+
+Proj1 is the file where the encoding of the features is done using dummy.
+
+Similarly in the other notebook, the encoding is done using LabelEncoder.
